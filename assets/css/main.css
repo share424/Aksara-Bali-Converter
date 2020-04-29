@@ -1,0 +1,13 @@
+.input-area {
+    width: 100%
+}
+
+@font-face {
+    font-family: Aksara-Bali;
+    src: url('../font/Bali Simbar.TTF');
+}
+
+.aksara-bali {
+    font-family: Aksara-Bali;
+    font-size: 30px;
+}
